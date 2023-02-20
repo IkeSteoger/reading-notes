@@ -12,4 +12,4 @@ You know when you've got important things to do and you're feeling *nervous*? Co
 2. Struggling is not always bad - without pain there often no gain[^1].
 3. Observe & celebrate others' success and find inspiration for your own growth.
 
-[^1]: But don't forget to ask for help after 15 minutes of struggle in class!
+<sub>[^1]: But don't forget to ask for help after 15 minutes of struggle in class!</sub>
