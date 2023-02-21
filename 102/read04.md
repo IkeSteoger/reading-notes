@@ -20,7 +20,7 @@ A code example is below
 
 actually displays simply as
 
-<p class="This is hidden from view except in the code!">Hello World!</p>
+> <p class="This is hidden from view except in the code!">Hello World!</p>
 
 Semantics (when referring to code) references the meaning of the code itself - what does that collection of symbols & letters actually do?? 
 
