@@ -11,9 +11,9 @@ and content of anything, perhaps something like
 > `Hello World!`
 
 and finally a closing tag to match the opening tag, ala
-> `</p>` 
+> `</p>`
 
-If you want an HTML element to include extra information that doesn't display in the actual content, also known as an Attribute! 
+If you want an HTML element to include extra information that doesn't display in the actual content, also known as an Attribute!
 
 A code example is below
 > `<p class="This is hidden from view except in the code!">Hello World!</p>`
@@ -22,7 +22,7 @@ actually displays simply as
 
 > <p class="This is hidden from view except in the code!">Hello World!</p>
 
-Semantics (when referring to code) references the meaning of the code itself - what does that collection of symbols & letters actually do?? 
+Semantics (when referring to code) references the meaning of the code itself - what does that collection of symbols & letters actually do??
 
 For example, in HTML
 the code `<h1>` is a semantic element that gives text a role of "top heading" or `<p>` is a paragraph body.
