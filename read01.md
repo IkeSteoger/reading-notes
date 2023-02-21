@@ -1,6 +1,4 @@
 
-# Reading 01 Notes
-
 ## Markdown: The Text Formatting Language
 
 Markdown is a easy-to-use-and-learn and versitile language designed to add formatting to text. There are so many reasons people use it, a few of them including; portability, usability, and its general popularity around the world. The language is also future proofed & already in use on almost every front you can imagine.
