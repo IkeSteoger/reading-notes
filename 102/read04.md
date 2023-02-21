@@ -25,4 +25,4 @@ actually displays simply as
 Semantics (when referring to code) references the meaning of the code itself - what does that collection of symbols & letters actually do??
 
 For example, in HTML
-the code `<h1>` is a semantic element that gives text a role of "top heading" or `<p>` is a paragraph body.
+the code `<h1>` is a semantic element that gives text a role of "top heading" or `<p>` is a paragraph body. Some differences are `<strong>` counts as semantic but <b> does not.
