@@ -13,7 +13,7 @@ This website is used to keep my 102 and 201 notes organized and easily accessibl
 3. [Revisions & the Cloud](/102/read03.md)
 4. [HTML: Structure Those Webpages](/102/read04.md)
 5. [CSS: Style Those Webpages](/102/read05.md)
-6. [TBA](/102/read06.md)
+6. [Javascript: Whoa](/102/read06.md)
 7. [TBA](/102/read07.md)
 8. [TBA](/102/read08.md)
 
