@@ -7,7 +7,7 @@ The purpose of CSS (Cascading Style Sheets) is quite simple yet amazingly comple
 There are three ways to add CSS:
 
 - External CSS: These can be defined as a link within the element inside of the HTML itself! For example `<link rel=stylesheet href=mystyle.css>` would fetch the CSS inside of the `mystyle.css` file.
-- Internal CSS: This type of sheet can be used if one single HTML page has a unique style. These can be defined inside the `<style>` element inside the `<head>` of an HTML page. For example you could add changes with 
+- Internal CSS: This type of sheet can be used if one single HTML page has a unique style. These can be defined inside the `<style>` element inside the `<head>` of an HTML page. For example you could add changes with
 
 >`<style>`
 >

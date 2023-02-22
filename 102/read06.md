@@ -1,12 +1,15 @@
 # Reading 06
 
-## Javascript: Whoa
+## Javascript & How Computers Work
 
 ### How Computers Work Notes
 
->Input: typing, touching, etc 
->Storage: Holds information in memory 
+>Input: typing, touching, etc
+>
+>Storage: Holds information in memory
+>
 >Processing: Processes or changes information from memory with commands (CPU)
+>
 >Output: Lots of different ways to output, text, photo, video, signals, etc.
 
 Binary is how computers work on the inside, via 1s and 0s. Any number can be represented by 1s and 0s. Or wires - that are on and off!  More wires - more numbers. Everything is represented with numbers. Text. Audio. Video. You often won't work directly with these 1s and 0s often, but they are the backbone of all computer information.
