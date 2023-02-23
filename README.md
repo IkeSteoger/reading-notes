@@ -15,7 +15,7 @@ This website is used to keep my 102 and 201 notes organized and easily accessibl
 5. [CSS: Style Those Webpages](/102/read05.md)
 6. [Javascript & How Computers Work](/102/read06.md)
 7. [Programming JavaScript](/102/read07.md)
-8. [TBA](/102/read08.md)
+8. [Operators And Loops](/102/read08.md)
 
 ### Code 201 Reading Notes
 
