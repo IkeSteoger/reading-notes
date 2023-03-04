@@ -1,12 +1,10 @@
-# Ike's Reading Notes on Coding
+# Ike's Reading Notes
 
-Hello there! My name is Ike ([Github Portfolio](https://github.com/IkeSteoger)) and I'm excited to learn all I can about coding. I love pizza and milkshakes. I play video games and disc golf.
+Hello there! My name is Ike ([Github Portfolio](https://github.com/IkeSteoger)) and I'm excited to learn all I can about coding. I **love** pizza and milkshakes. I play video games and disc golf.
 
-This website is used to keep my 102 and 201 notes organized and easily accessible.
+This website is used to keep all of my notes from each class organized and easily accessible. Each page links to *specific* topics within software development.
 
-## Table of Contents
-
-### Code 102 Reading Notes
+## Code 102 - Intro to Software Dev
 
 1. [Markdown Language](/102/read01.md)
 2. [Text Editors](/102/read02.md)
@@ -17,7 +15,7 @@ This website is used to keep my 102 and 201 notes organized and easily accessibl
 7. [Programming JavaScript](/102/read07.md)
 8. [Operators And Loops](/102/read08.md)
 
-### Code 201 Reading Notes
+## Code 201 - Foundations of Software Dev
 
 1. [TBA](/201/read201.md)
 2. [TBA](/201/read202.md)
@@ -34,3 +32,7 @@ This website is used to keep my 102 and 201 notes organized and easily accessibl
 13. [TBA](/201/read213.md)
 14. [TBA](/201/read214.md)
 15. [TBA](/201/read215.md)
+
+## Code 301 - Intermediate Software Dev
+
+## Code 401 - Advanced Software Dev
