@@ -17,7 +17,7 @@ This website is used to keep all of my notes from each class organized and easil
 
 ## Code 201 - Foundations of Software Dev
 
-1. [TBA](/201/read201.md)
+1. [Getting Started with the Web & Webpages](/201/read201.md)
 2. [TBA](/201/read202.md)
 3. [TBA](/201/read203.md)
 4. [TBA](/201/read204.md)
