@@ -48,7 +48,7 @@ A typical website will have `<header>` `<main>` `<footer>` elements but often al
 
 **Metadata** can influence SEO in many ways, often by including a description that has keywords relating to the content of your page so they appear higher when searched via the web (Google, Bing, etc).
 
-The `<meta>` tag can be include elements such as `name` and `content` which would appear directly on search engines in the Title & description of the website. You could tag the author & the title of the webpage, but also meta tag the description of the website. 
+The `<meta>` tag can be include elements such as `name` and `content` which would appear directly on search engines in the Title & description of the website. You could tag the author & the title of the webpage, but also meta tag the description of the website.
 
 Ex `<meta name="Ike" content="Intro to HTML">`
 
