@@ -6,11 +6,15 @@ HTML, CSS, and JavaScript is very important to the backbone & structure & usage 
 
 ### HTTP: A poem
 
-The Browser - seeking a webpage
-The DNS server - providing the true address
-The HTTP Request - asking for a copy of the webpage
-The Approval - Access to the website is granted
-The Display - Last but not least, you see the webpagey goodness!
+>The Browser - seeking a webpage
+>
+>The DNS server - providing the true address
+>
+>The HTTP Request - asking for a copy of the webpage
+>
+>The Approval - Access to the website is granted
+>
+>The Display - Last but not least, you see the webpagey goodness!
 
 HTML, CSS, and JS files are parsed (or accessed) in a specific order:
 
@@ -23,8 +27,11 @@ HTML, CSS, and JS files are parsed (or accessed) in a specific order:
 The best way to find images to add to a website is using Google Images but make sure to change to the *Creative Commons licenses* in the **Usage rights* options.
 
 The difference of a string vs a number in JavaScript is very small but important change.
-let = "32"; this is a string (notated by the quotation marks)
-let = 32; this is a number
+
+`let = "32";` this is a string (notated by the quotation marks)
+
+`let = 32;` this is a number
+
 Strings can be reassigned into numbers but numbers are not strings.
 
 A variable in JavaScript is a storage container that holds values. They are very important in JavaScript because they can be reused to call back a variable later but with whatever varied value was entered or requested.
@@ -41,7 +48,9 @@ A typical website will have `<header>` `<main>` `<footer>` elements but often al
 
 **Metadata** can influence SEO in many ways, often by including a description that has keywords relating to the content of your page so they appear higher when searched via the web (Google, Bing, etc).
 
-The `<meta>` tag can be include elements such as `name` and `content` which would appear directly on search engines in the Title & description of the website. You could tag the author & the title of the webpage, but also meta tag the description of the website. Ex `<meta name="Ike" content="Intro to HTML">`
+The `<meta>` tag can be include elements such as `name` and `content` which would appear directly on search engines in the Title & description of the website. You could tag the author & the title of the webpage, but also meta tag the description of the website. 
+
+Ex `<meta name="Ike" content="Intro to HTML">`
 
 ### Misc
 
