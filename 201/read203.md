@@ -4,7 +4,7 @@
 
 ### HTML Lists
 
-You should use an `unordered list` or `ul` in your HTML if you need a non-numbered bullet point style list. 
+You should use an `unordered list` or `ul` in your HTML if you need a non-numbered bullet point style list.
 
 In order to change the bullet style, you would use `list-style` CSS, chosing one of the compatible options.
 
@@ -19,8 +19,7 @@ Margin: The white space outside of the box
 Border: Placed between the margin & the padding, this is the edge of the box
 Padding: White space inside of the box between border & content
 
-
-### Arrays. Operators & Expressions. Loops. 
+### Arrays. Operators & Expressions. Loops
 
 You can store various data types in arrays - strings, numbers, objects, and even other arrays. (Mozilla.org)
 

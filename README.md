@@ -20,7 +20,7 @@ This website is used to keep all of my notes from each class organized and easil
 1. [Getting Started with the Web & Webpages](/201/read201.md)
 2. [Basics of HTML, CSS, & JS](/201/read202.md)
 3. [HTML Lists, Control Flow with JS, and the CSS Box Model](/201/read203.md)
-4. [TBA](/201/read204.md)
+4. [HTML Links, JS Functions, and Intro to CSS Layout](/201/read204.md)
 5. [TBA](/201/read205.md)
 6. [TBA](/201/read206.md)
 7. [TBA](/201/read207.md)
