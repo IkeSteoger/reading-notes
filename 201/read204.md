@@ -15,6 +15,7 @@ Some ways we can ensure links are accessible is adding support information, like
 Normal flow in CSS is the way webpage elements lay themselves out without any changes to their layout.
 
 #### Block-level vs Inline
+
 Block-level elements are laid out in the *block flow direction* which is based on the parent's writing mode. Each element appears on a new line below the last one, with each one separated by whatever margin is specified. Block level elements are laid out vertically (Mozilla.org)
 
 Inline elements don't appear on new lines, that all sit on the same line along with any adjacent or wrapped text content, as long as there is space to do so within the width of the parent block element. Overflowing content moves down to a new line (Mozilla.org)
