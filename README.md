@@ -22,7 +22,7 @@ This website is used to keep all of my notes from each class organized and easil
 3. [HTML Lists, Control Flow with JS, and the CSS Box Model](/201/read203.md)
 4. [HTML Links, JS Functions, and Intro to CSS Layout](/201/read204.md)
 5. [HTML Media & More CSS](/201/read205.md)
-6. [TBA](/201/read206.md)
+6. [Problem Domain, Objects, and the DOM](/201/read206.md)
 7. [TBA](/201/read207.md)
 8. [TBA](/201/read208.md)
 9. [TBA](/201/read209.md)
