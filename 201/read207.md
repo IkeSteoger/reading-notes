@@ -27,3 +27,7 @@ When using `this` in the object literal it would use that exact object literal a
 ### Object Prototypes Using a Constructor
 
 This question went way over my head no matter how much I read this blog post. I hope we learn about prototypes and inheritance in class because I am lost.
+
+### Things I want to Know More About
+
+Everything Related to Prototypes & Inheritance. The blog post was very confusing.
