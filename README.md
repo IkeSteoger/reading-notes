@@ -26,7 +26,7 @@ This website is used to keep all of my notes from each class organized and easil
 7. [Object-Oriented Programming, HTML Tables](/201/read207.md)
 8. [CSS Layout](/201/read208.md)
 9. [Forms & JS Events](/201/read209.md)
-10. [TBA](/201/read210.md)
+10. [Debugging](/201/read210.md)
 11. [TBA](/201/read211.md)
 12. [TBA](/201/read212.md)
 13. [TBA](/201/read213.md)
