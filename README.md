@@ -30,7 +30,7 @@ This website is used to keep all of my notes from each class organized and easil
 11. [Audio, Video, Images](/201/read211.md)
 12. [Chart.js, Canvas](/201/read212.md)
 13. [Local Storage and How to Use it On Websites](/201/read213.md)
-14. [TBA](/201/read214.md)
+14. [CSS Transforms, Transitions, Animations & Psychological Safety](/201/read214.md)
 15. [TBA](/201/read215.md)
 
 ## Code 301 - Intermediate Software Dev
