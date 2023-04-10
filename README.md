@@ -31,8 +31,22 @@ This website is used to keep all of my notes from each class organized and easil
 12. [Chart.js, Canvas](/201/read212.md)
 13. [Local Storage and How to Use it On Websites](/201/read213.md)
 14. [CSS Transforms, Transitions, Animations & Psychological Safety](/201/read214.md)
-15. [TBA](/201/read215.md)
 
 ## Code 301 - Intermediate Software Dev
+
+1. [Intro to React and Components](/301/read301.md)
+2. [](/301/read302.md)
+3. [](/301/read303.md)
+4. [](/301/read304.md)
+5. [](/301/read305.md)
+6. [](/301/read306.md)
+7. [](/301/read307.md)
+8. [](/301/read308.md)
+9. [](/301/read309.md)
+10. [](/301/read310.md)
+11. [](/301/read311.md)
+12. [](/301/read312.md)
+13. [](/301/read313.md)
+14. [](/301/read314.md)
 
 ## Code 401 - Advanced Software Dev
