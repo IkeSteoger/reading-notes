@@ -36,7 +36,7 @@ This website is used to keep all of my notes from each class organized and easil
 
 1. [Intro to React and Components](/301/read301.md)
 2. [State & Props](/301/read302.md)
-3. [](/301/read303.md)
+3. [Passing Functions as Props](/301/read303.md)
 4. [](/301/read304.md)
 5. [](/301/read305.md)
 6. [](/301/read306.md)
