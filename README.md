@@ -4,6 +4,8 @@ Hello there! My name is Ike ([Github Portfolio](https://github.com/IkeSteoger)) 
 
 This website is used to keep all of my notes from each class organized and easily accessible. Each page links to *specific* topics within software development.
 
+[My Growth Mindset](/GrowthMindset.md)
+
 ## Code 102 - Intro to Software Dev
 
 1. [Markdown Language](/102/read01.md)
