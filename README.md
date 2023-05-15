@@ -53,3 +53,20 @@ This website is used to keep all of my notes from each class organized and easil
 15. [Authentication](/301/read315.md)
 
 ## Code 401 - Advanced Software Dev
+
+0. [Practice in the Terminal](/401/terminalPractice.md)
+1. [](/401/read401.md)
+2. [](/401/read402.md)
+3. [](/401/read403.md)
+4. [](/401/read404.md)
+5. [](/401/read405.md)
+6. [](/401/read406.md)
+7. [](/401/read407.md)
+8. [](/401/read408.md)
+9. [](/401/read409.md)
+10. [](/401/read410.md)
+11. [](/401/read411.md)
+12. [](/401/read412.md)
+13. [](/401/read413.md)
+14. [](/401/read414.md)
+15. [](/401/read415.md)
