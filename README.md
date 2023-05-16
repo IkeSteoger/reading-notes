@@ -55,7 +55,8 @@ This website is used to keep all of my notes from each class organized and easil
 ## Code 401 - Advanced Software Dev
 
 0. [Practice in the Terminal](/401/terminalPractice.md)  
-[IntroToSQL](/401/introToSQL.md)
+[IntroToSQL](/401/introToSQL.md)  
+[Engineering Readings](/401/engineeringReadings.md)
 1. [Node EcoSystem](/401/read401.md)
 2. [](/401/read402.md)
 3. [](/401/read403.md)
