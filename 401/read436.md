@@ -35,4 +35,3 @@ I'm nervous and excited about mock interviews.
 ### What are your learning goals after reading and reviewing the class README?
 
 Continue to wrap my head around State & how Redux changes it.
-
